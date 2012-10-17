@@ -12,7 +12,7 @@ Description: Board package for db8060a devices
 Depends:
  ptux-base,
  getty-hsl0-run,
- devnodes-db8060,
+ devnodes-db8060a,
  linux-db8060a,
  securetty-db8060,
  ${misc:Depends}
