@@ -1,0 +1,18 @@
+Source: board-db8060a
+Section: embedded
+Priority: extra
+Maintainer: Ryan Kuester <rkuester@insymbols.com>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.9.1
+
+Package: board-db8060a
+Architecture: any
+Description: Board package for db8060a devices
+ This is the board package for DragonBoard 8060a devices.
+Depends:
+ ptux-base,
+ getty-hsl0-run,
+ devnodes-db8060,
+ linux-db8060a,
+ securetty-db8060,
+ ${misc:Depends}
