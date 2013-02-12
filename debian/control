@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 7.0.50~)
 Standards-Version: 3.9.1
 
 Package: board-db8060a
-Architecture: any
+Architecture: all
 Description: Board package for db8060a devices
  This is the board package for DragonBoard 8060a devices.
 Depends:
