@@ -10,7 +10,6 @@ Architecture: any
 Description: Board package for db8060a devices
  This is the board package for DragonBoard 8060a devices.
 Depends:
- ptux-base,
  getty-hsl0-run,
  devnodes-db8060a,
  linux-db8060a,
