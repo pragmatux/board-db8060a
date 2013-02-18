@@ -1,3 +1,9 @@
+board-db8060a (2.0) unstable; urgency=low
+
+  * Leave ptux-base package decisions to higher layers
+
+ -- Ryan Kuester <rkuester@insymbols.com>  Mon, 18 Feb 2013 21:26:58 +0000
+
 board-db8060a (1.1) unstable; urgency=low
 
   * Switch to devnodes-db8060a
